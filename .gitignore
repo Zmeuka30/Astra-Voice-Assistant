@@ -1,0 +1,12 @@
+# Игнорируемые файлы по умолчанию
+/shelf/
+/workspace.xml
+# HTTP-клиент на основе редактора
+/httpRequests/
+.env
+.idea/
+__pycache__/
+*.wav
+*.db
+temp_tts.wav
+test_phrase.wav
